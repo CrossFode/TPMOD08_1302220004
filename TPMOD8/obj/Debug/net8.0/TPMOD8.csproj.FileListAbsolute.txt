@@ -1,0 +1,15 @@
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\bin\Debug\net8.0\TPMOD8.exe
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\bin\Debug\net8.0\TPMOD8.deps.json
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\bin\Debug\net8.0\TPMOD8.runtimeconfig.json
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\bin\Debug\net8.0\TPMOD8.dll
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\bin\Debug\net8.0\TPMOD8.pdb
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.AssemblyInfoInputs.cache
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.AssemblyInfo.cs
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.csproj.CoreCompileInputs.cache
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.sourcelink.json
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.dll
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\refint\TPMOD8.dll
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.pdb
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\TPMOD8.genruntimeconfig.cache
+C:\Users\fauzan\Desktop\KPL\TPMOD8\TPMOD8\obj\Debug\net8.0\ref\TPMOD8.dll
